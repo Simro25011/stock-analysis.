@@ -17,13 +17,13 @@ The above 3 arrays store performance data for each stock when the for loop analy
 The ticker array I created in the original code creates a ticker that can be called for each stock, then Compare the 3 performance arrays to the ticker array using a variable named tickerIndex. 
 Once these arrays are created, I can use nested for loops and variables to iterate through the data and complete the analysis.
 
-**1. Original code vs Refactored code
+### 1. Original code vs Refactored code
 
-**Original code
+#### Original code
 
 https://github.com/Simro25011/stock-analysis./blob/main/Original%20Code.txt
 
-**Refactored code
+#### Refactored code
 
 https://github.com/Simro25011/stock-analysis./blob/main/Refactored%20Code.txt
 
@@ -36,7 +36,7 @@ https://github.com/Simro25011/stock-analysis./blob/main/Ressources/Stock%20Perfo
 
 https://github.com/Simro25011/stock-analysis./blob/main/Ressources/Stock%20Performance%202018.png
 
-**2.Execution time
+### 2.Execution time
 
 Improving code efficiency is a success! The execution time improved from 0.5234375 seconds to 0.0703125 seconds in 2017 and from 0.5390625 to 0.0625 in 2018.
 We are saving a lot of time.
