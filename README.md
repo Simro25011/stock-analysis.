@@ -36,7 +36,7 @@ https://github.com/Simro25011/stock-analysis./blob/main/Ressources/Stock%20Perfo
 
 https://github.com/Simro25011/stock-analysis./blob/main/Ressources/Stock%20Performance%202018.png
 
-**2. Execution time
+**2.Execution time
 
 Improving code efficiency is a success! The execution time improved from 0.5234375 seconds to 0.0703125 seconds in 2017 and from 0.5390625 to 0.0625 in 2018.
 We are saving a lot of time.
