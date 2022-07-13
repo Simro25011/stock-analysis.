@@ -1,12 +1,12 @@
 # Green Stock Analysis
 
-## **OVERVIEW OF PROJECT
+## OVERVIEW OF PROJECT
 
-### **Background
+### *Background
 Steve loved the workbook that we initially created for him. Although our code works well for a dozen stocks which has been helpful for him in his research for his parents,
 He is looking to expand the dataset to include the entire stock market over the last few years.
 
-### **Purpose
+### Purpose
 My task is therefor to refactor my previous code in order to loop through all the data one time in order to collect the same information  used before. I will also have the mission
 to mesure the performance (time elapsed) of the code and compare it to my initial code.
 
@@ -18,6 +18,7 @@ The ticker array I created in the original code creates a ticker that can be cal
 Once these arrays are created, I can use nested for loops and variables to iterate through the data and complete the analysis.
 
 **Original code vs Refactored code
+
 **Original code
 https://github.com/Simro25011/stock-analysis./blob/main/Original%20Code.txt
 
@@ -60,5 +61,5 @@ One thing for sure We are saving a lot of time. over 45 secs actually and this c
 the goal is by taking fewer steps, using less memory, or improving the logic of the code to make it easier for future users to read.
 
 
-### *** Inconvenients of refactoring a code
+### ***Inconvenients of refactoring a code
 When it comes to refactoring the main source of concern is to avoid make errors
