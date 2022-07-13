@@ -54,12 +54,13 @@ https://github.com/Simro25011/stock-analysis./blob/main/Ressources/Execution%20T
 
 https://github.com/Simro25011/stock-analysis./blob/main/Ressources/VBA_Challenge_2018.png
 
-## **Summary
+## Summary
 
-### **Advantages of refactoring a code
+### Advantages of refactoring a code
+
 One thing for sure We are saving a lot of time. over 45 secs actually and this can definelty be significative when we run thousands of data.
 the goal is by taking fewer steps, using less memory, or improving the logic of the code to make it easier for future users to read.
 
 
-### ***Inconvenients of refactoring a code
+### Inconvenients of refactoring a code
 When it comes to refactoring the main source of concern is to avoid make errors
